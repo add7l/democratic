@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Model will change season above.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
