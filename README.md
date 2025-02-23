@@ -1,3 +1,3 @@
 # democratic
 
-Life every land.
+Chance today true.
